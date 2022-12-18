@@ -1,0 +1,80 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Navabr */
+.navbar {
+    background-color: #ffffff !important;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-nav-scroll {
+    color: #e82628;
+}
+
+
+/* Mega Menu */
+.dropdown-mega .dropdown-menu {
+    background-color: #e0dfdf;
+    width: 100%;
+    margin-top: 0px;
+    border: 0;
+}
+
+.dropdown-mega h5 {
+    padding-bottom: 12px;
+    /* border-bottom: 1px solid rgba(0, 0, 0, 1); */
+    margin: 0;
+}
+
+.dropdown-mega .list-group-item {
+    background-color: #e0dfdf;
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.5);
+    border: 0;
+    border-radius: 0;
+    border-top: 1px solid  rgba(232, 38, 40, 0.125);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    padding: 12px 0 12px 0;
+}
+
+.dropdown-mega .list-group-item:hover{
+    color: rgba(0, 0, 0, 0.8);
+}
+
+/* End Of Navbar */
+
+/* Carousel */
+.owl-nav {
+    display: none;
+    position: absolute;
+}
+
+/* Product carousel */
+.product .owl-nav {
+    display: block;
+    position: absolute;
+}
+
+
+/* End of Carousel */
+
+.hitam {
+    color: #1A2634;
+}
+
+.tambahan {
+    width: 100%;
+    height: 10px;
+    background-color: #ffffff !important;
+}
+
+.footer {
+    background-color: #f5f5f5 !important;
+}
+
+.bernard {
+    font-family: 'bernard-mt-condensed-regular', sans-serif !important;
+}

@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'futura';
+    src: url("../font/Futura-Extra-Black-Condensed-Font/Futura-Extra-Black-Condensed-Regular/Futura-Extra-Black-Condensed-Regular.otf");
+}
+
+
+body {
+    background-color: #EFEFEF;
+    font-size: 100% !important;
+}
+
+.navbar {
+    background-color: #fff !important;
+}
+
+.navbar-brand img {
+    width: 60px;
+}
+
+.container h1 {
+    font-family: "futura";
+}
+
+.container-fluid .banner {
+    background-image: url(../img/nike-just-do-it.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 900px;
+}
+
+/* .container .banner img {
+    max-width: 1080px !important;
+} */
+
+/* .sementara {
+    height: 1080px;
+} */
+
+.bayangan {
+   box-shadow: 0 -.125rem .25rem rgba(0,0,0, .075);
+}
+
+.style {
+    font-family: "futura";
+    font-size: 9vmin !important;
+}
+
+.radius {
+    border-radius: 18px;
+    background-color: #202020;
+    border-color: #202020;
+}
+
+.radius:hover {
+    background-color: #6d6d6d;
+    border-color: #6d6d6d;
+}
+
+.sub {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.warna {
+    background-color: #202020 !important;
+}
